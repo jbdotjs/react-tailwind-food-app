@@ -16,10 +16,17 @@ module.exports = {
       //   'mono': ['ui-monospace', 'SFMono-Regular'],
       //   'montserrat': ['Montserrat'],
       //  },
-    extend: {},
+      extend: {
+        backgroundImage: theme => ({
+         'hero': "url('/src/assets/hero.png')",
+         'action': "url('/src/assets/action.png')",
+        })
+      },
   },
   variants: {
-    extend: {},
+    extend: {
+      translate: ['hover'],
+    },
   },
   plugins: [],
 }
