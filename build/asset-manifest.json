@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b643117.chunk.css",
+    "main.js": "/static/js/main.cd364f57.chunk.js",
+    "main.js.map": "/static/js/main.cd364f57.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8be81743.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8be81743.js.map",
+    "static/js/2.94dfffaf.chunk.js": "/static/js/2.94dfffaf.chunk.js",
+    "static/js/2.94dfffaf.chunk.js.map": "/static/js/2.94dfffaf.chunk.js.map",
+    "static/js/3.f8093fbf.chunk.js": "/static/js/3.f8093fbf.chunk.js",
+    "static/js/3.f8093fbf.chunk.js.map": "/static/js/3.f8093fbf.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0b643117.chunk.css.map": "/static/css/main.0b643117.chunk.css.map",
+    "static/js/2.94dfffaf.chunk.js.LICENSE.txt": "/static/js/2.94dfffaf.chunk.js.LICENSE.txt",
+    "static/media/Rectangle_1.461c72a9.png": "/static/media/Rectangle_1.461c72a9.png",
+    "static/media/Rectangle_2.70fd208a.png": "/static/media/Rectangle_2.70fd208a.png",
+    "static/media/Rectangle_3.0c97c345.png": "/static/media/Rectangle_3.0c97c345.png",
+    "static/media/Rectangle_4.4f8a5bef.png": "/static/media/Rectangle_4.4f8a5bef.png",
+    "static/media/Rectangle_5.c2ad11fe.png": "/static/media/Rectangle_5.c2ad11fe.png",
+    "static/media/index.css": "/static/media/hero.755f8265.png",
+    "static/media/logo.186a9f64.png": "/static/media/logo.186a9f64.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8be81743.js",
+    "static/js/2.94dfffaf.chunk.js",
+    "static/css/main.0b643117.chunk.css",
+    "static/js/main.cd364f57.chunk.js"
+  ]
+}
