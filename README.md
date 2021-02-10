@@ -12,5 +12,9 @@ I started this project to gain experience of [Tailwind CSS](https://tailwindcss.
 ### Mobile Demo
 ![](ezgif-2-563bb020e9f1.gif)
 
-### Credits
+## To Do
++ Add [react-reveal](https://github.com/rnosov/react-reveal) animations
++ Complete hamburger menu
+
+## Credits
 Credits to [Marvis Dosa](https://dribbble.com/Marv_arts?ref=uistore.design) for the design.
