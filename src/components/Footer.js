@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = ({logo}) => {
   return (
-    <div className="flex flex-row flex-wrap items-center justify-around p-10">
+    <div id="contact" className="flex flex-row flex-wrap items-center justify-around p-10">
       <a href="/" className="w-1/2 pl-5 mb-2 lg:visible lg:w-auto lg:pl-0 lg:mb-0">
         <img width="70%" src={logo} alt="logo"/>
       </a>

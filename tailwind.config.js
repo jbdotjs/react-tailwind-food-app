@@ -10,6 +10,10 @@ module.exports = {
       blue: colors.blueGray,
       white: colors.white,
       },
+      screens: {
+        'sm': '300px',
+        'lg': '700px'
+        },
       // fontFamily: {
       //   'sans': ['ui-sans-serif', 'system-ui'],
       //   'serif': ['ui-serif', 'Georgia'],

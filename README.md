@@ -2,7 +2,7 @@
 
 ## Intro
 
-I started this project to gain experience of [Tailwind CSS](https://tailwindcss.com/) which is a utility based, mobile-first CSS library.
+I started this project to gain experience of [Tailwind CSS](https://tailwindcss.com/) which is a utility-first & mobile-first CSS library.
 
 ### Demo 
 
@@ -15,6 +15,10 @@ I started this project to gain experience of [Tailwind CSS](https://tailwindcss.
 ## To Do
 + Add [react-reveal](https://github.com/rnosov/react-reveal) animations
 + Complete hamburger menu
++ Add Dark Mode
+
+### Figma Design
+[Figma Design](https://www.figma.com/file/DnGWAoCLprYt5yI3VJ0NTK/Food-delivery-app-Ui-kit-(Community)) for this project.
 
 ## Credits
 Credits to [Marvis Dosa](https://dribbble.com/Marv_arts?ref=uistore.design) for the design.
