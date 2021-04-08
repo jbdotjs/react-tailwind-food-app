@@ -5,7 +5,7 @@
 I started this project to gain experience of [Tailwind CSS](https://tailwindcss.com/) which is a utility-based mobile-first CSS library.
 
 ### Lighthouse Score
-![](lighthouse_score.png)
+![Lighthouse Score](https://github.com/jbtalhakhan/react-tailwind-food-app/blob/main/lighthouse_score.PNG?raw=true)
 
 ### Demo 
 
