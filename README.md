@@ -16,6 +16,7 @@ I started this project to gain experience of [Tailwind CSS](https://tailwindcss.
 - [ ] Add [react-reveal](https://github.com/rnosov/react-reveal) animations
 - [x] Complete hamburger menu
 - [ ] Add Dark Mode
+- [ ] Configure PWA
 
 ### Figma Design
 [Figma Design](https://www.figma.com/file/DnGWAoCLprYt5yI3VJ0NTK/Food-delivery-app-Ui-kit-(Community)) for this project.
