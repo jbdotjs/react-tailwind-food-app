@@ -4,6 +4,9 @@
 
 I started this project to gain experience of [Tailwind CSS](https://tailwindcss.com/) which is a utility-based mobile-first CSS library.
 
+### Lighthouse Score
+![](lighthouse_score.png)
+
 ### Demo 
 
 #### Desktop Demo
