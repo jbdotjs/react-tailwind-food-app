@@ -1,3 +1,4 @@
+![Forks Badge](https://img.shields.io/github/forks/jbtalhakhan/react-tailwind-food-app?style=social)
 ![Language Badge](https://img.shields.io/github/languages/count/jbtalhakhan/react-tailwind-food-app)
 ![Javascript Badge](https://img.shields.io/github/languages/top/jbtalhakhan/react-tailwind-food-app)
 
