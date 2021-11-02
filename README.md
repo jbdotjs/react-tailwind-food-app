@@ -1,4 +1,4 @@
-[Language Badge](https://img.shields.io/github/languages/count/jbtalhakhan/react-tailwind-food-app)
+![Language Badge](https://img.shields.io/github/languages/count/jbtalhakhan/react-tailwind-food-app)
 
 # React & Tailwind CSS Landing Page
 
