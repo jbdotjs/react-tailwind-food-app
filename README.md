@@ -1,4 +1,4 @@
-![Github Badge](https://img.shields.io/github/stars/jbtalhakhan?affiliations=OWNER)
+![Github Badge](https://img.shields.io/github/stars/jbtalhakhan/react-tailwind-food-app?affiliations=OWNER)
 ![Forks Badge](https://img.shields.io/github/forks/jbtalhakhan/react-tailwind-food-app)
 ![Language Badge](https://img.shields.io/github/languages/count/jbtalhakhan/react-tailwind-food-app)
 ![Javascript Badge](https://img.shields.io/github/languages/top/jbtalhakhan/react-tailwind-food-app)
