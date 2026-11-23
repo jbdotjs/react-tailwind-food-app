@@ -1,36 +1,28 @@
 const colors = require('tailwindcss/colors');
 
 module.exports = {
-  purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
-  darkMode: false, // or 'media' or 'class'
+  content: ['./index.html', './src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     colors: {
+      transparent: 'transparent',
+      current: 'currentColor',
       orange: colors.orange,
       gray: colors.gray,
-      blue: colors.blueGray,
+      blue: colors.slate,
+      red: colors.red,
       white: colors.white,
-      },
-      screens: {
-        'sm': '300px',
-        'lg': '700px'
-        },
-      // fontFamily: {
-      //   'sans': ['ui-sans-serif', 'system-ui'],
-      //   'serif': ['ui-serif', 'Georgia'],
-      //   'mono': ['ui-monospace', 'SFMono-Regular'],
-      //   'montserrat': ['Montserrat'],
-      //  },
-      extend: {
-        backgroundImage: theme => ({
-         'hero': "url('/src/assets/hero.png')",
-         'action': "url('/src/assets/action.png')",
-        })
-      },
-  },
-  variants: {
+    },
+    screens: {
+      sm: '300px',
+      md: '700px',
+      lg: '700px',
+    },
     extend: {
-      translate: ['hover'],
+      backgroundImage: {
+        hero: "url('/src/assets/hero.png')",
+        action: "url('/src/assets/action.png')",
+      },
     },
   },
   plugins: [],
-}
+};
